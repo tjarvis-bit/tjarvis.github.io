@@ -1,0 +1,43 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: white;
+}
+
+.little-prince {
+    width: 580px;
+    margin: 20px auto;
+}
+
+.little-prince h2 {
+    text-align: center;
+    font-size: 18px;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.little-prince img {
+    width: 575px;
+    display: block;
+    margin: 0 auto;
+}
+
+.little-prince p {
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 1.05;
+    margin-top: 5px;
+}
+
+.highlight {
+    background-color: orange;
+}
+
+.red-text {
+    color: red;
+}
+
+.little-prince a {
+    display: block;
+    margin-top: 20px;
+    color: blue;
+}
